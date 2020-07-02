@@ -36,6 +36,7 @@
     .caption {
       transition: clip-path 0.25s ease-out, background-color 0.7s;
       clip-path: inset(0px);
+
       .caption-content {
         transition: opacity 0.25s;
         margin-left: 5rem;
