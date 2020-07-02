@@ -1,32 +1,25 @@
 {
-    "title": "Stylish Portfolio",
-    "name": "startbootstrap-stylish-portfolio",
-    "version": "5.0.8",
+    "title": "The Brassholes",
+    "name": "The Brassholes Static Website",
+    "version": "0.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A stylish portfolio HTML template built with Bootstrap",
+    "description": "The Brassholes Static Website",
     "keywords": [
         "css",
         "sass",
         "html",
-        "responsive",
-        "theme",
-        "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/stylish-portfolio",
+    "homepage": "https://dennisslimmers.github.io/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "dennisslimmers@live.nl"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Dennis Slimmers",
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git"
+        "url": "https://github.com/dennisslimmers/dennisslimmers.github.io"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.13.1",
