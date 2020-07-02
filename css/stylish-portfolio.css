@@ -252,6 +252,12 @@ h6 {
   }
 }
 
+.album-item {
+  border: 10px solid #fff;
+  margin-bottom: 25px;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+}
+
 .portfolio-item {
   display: block;
   position: relative;
