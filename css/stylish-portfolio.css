@@ -23,6 +23,11 @@ body {
   padding-bottom: 7.5rem;
 }
 
+.content-section a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .content-section-heading h2 {
   font-size: 3rem;
 }
