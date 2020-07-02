@@ -1,7 +1,6 @@
 {
     "title": "The Brassholes",
-    "name": "The Brassholes Static Website",
-    "version": "0.1",
+    "version": "0.0.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
@@ -9,7 +8,7 @@
     "keywords": [
         "css",
         "sass",
-        "html",
+        "html"
     ],
     "homepage": "https://dennisslimmers.github.io/",
     "bugs": {
