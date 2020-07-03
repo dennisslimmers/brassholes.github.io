@@ -350,6 +350,14 @@ footer.footer .social-link:hover {
   text-decoration: none;
 }
 
+#arrangementen .song-section .example-link {
+  font-size: 25px;
+}
+
+#arrangementen .song-section .price-text {
+  margin-top: 50px;
+}
+
 a {
   color: #fbcb0c;
 }
