@@ -25,6 +25,12 @@ body {
   }
 }
 
+@media(max-width: 375px) {
+  .content-section {
+    padding-top: 3.5rem;
+  }
+}
+
 .content-section-heading {
   h2 {
     font-size: 3rem;

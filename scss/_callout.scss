@@ -13,3 +13,11 @@
     display: block;
   }
 }
+
+@media(max-width: 360px) {
+  .callout {
+    h3 {
+      font-size: 1.7rem;
+    }
+  }
+}
